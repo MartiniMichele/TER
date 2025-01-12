@@ -1,0 +1,1743 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.13f1 (ffeab063bb93) revision 16771760'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'it' Physical Memory: 16108 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.1.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/baske/Documents/Unity Projects/TER prototype/TER prototype
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52178
+Successfully changed project path to: C:/Users/baske/Documents/Unity Projects/TER prototype/TER prototype
+C:/Users/baske/Documents/Unity Projects/TER prototype/TER prototype
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8692] Host "[IP] 192.168.1.47 [Port] 0 [Flags] 2 [Guid] 211723205 [EditorId] 211723205 [Version] 1048832 [Id] WindowsEditor(7,LOQ-Michele) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [8692] Host "[IP] 192.168.1.47 [Port] 0 [Flags] 2 [Guid] 211723205 [EditorId] 211723205 [Version] 1048832 [Id] WindowsEditor(7,LOQ-Michele) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 16.65 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 2.58 ms.
+Initialize engine version: 2023.1.13f1 (ffeab063bb93)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.1.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/baske/Documents/Unity Projects/TER prototype/TER prototype/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.6636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.1.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.1.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.1.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.005660 seconds.
+- Loaded All Assemblies, in  0.414 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 269 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.633 seconds
+Domain Reload Profiling: 1045ms
+	BeginReloadAssembly (129ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (55ms)
+	LoadAllAssembliesAndSetupDomain (181ms)
+		LoadAssemblies (127ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (174ms)
+				TypeCache.ScanAssembly (163ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (633ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (589ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (385ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (134ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\baske\Documents\Unity Projects\TER prototype\TER prototype\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\baske\Documents\Unity Projects\TER prototype\TER prototype\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.011 seconds
+Refreshing native plugins compatible for Editor in 6.14 ms, found 6 plugins.
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.664 seconds
+Domain Reload Profiling: 1672ms
+	BeginReloadAssembly (289ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (608ms)
+		LoadAssemblies (381ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (340ms)
+			TypeCache.Refresh (323ms)
+				TypeCache.ScanAssembly (302ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (665ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (450ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (68ms)
+			ProcessInitializeOnLoadAttributes (327ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 6.08 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.11 ms.
+Unloading 3199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (92.6 KB). Loaded Objects now: 4044.
+Memory consumption went from 141.8 MB to 141.8 MB.
+Total: 4.123900 ms (FindLiveObjects: 0.337800 ms CreateObjectMapping: 0.071900 ms MarkObjects: 3.528000 ms  DeleteObjects: 0.184600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13438.575248 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32650410a516b57f6ed253e8945df2d0') in 0.329128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 35.222082 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a012627274a06a977e33ef93360327fe') in 0.174108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 1.425960 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1588af030cfc160a8ea81baaf6c16b46') in 0.146160 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 6.500036 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a835f101a1574d0740a40369055ffbfa') in 0.150993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 4.054429 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7101475cf89b31baedfb25a2ce600227') in 0.145703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 26.273349 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8d48c8663f7a04648d29252614d5dd') in 0.142112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 6.295795 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ac501d1a43e049c9ae1cb01bbb6fc7') in 0.155738 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 7.290921 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc663873a5d045070a03899d54de335d') in 0.151839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 4.074716 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f460918f311b3ece4a8db4da6a4766') in 0.148104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 22.815077 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73033854e57788445ff216fc4f222fa5') in 0.152412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 13.955079 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abc723fc03c11fd9f765afd85cda8bee') in 0.149671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 22.870763 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac76a739fa09afad253c17c82f32d11') in 0.158389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 16.148556 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937e5497c5ed64338116203acf5e5b78') in 0.156992 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 6.296596 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd304692ca30b8045c62f3851cc9809de') in 0.151373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 5.080026 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64bd4a0845f085d6e7b174759e6f2ecf') in 0.140484 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 53.682400 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c94bbe2a92caa017ca8e47cba6d9f9') in 0.154240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 14.845230 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b50b649a90331739eb49efc685735dd') in 0.160522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6389
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\baske\Documents\Unity Projects\TER prototype\TER prototype\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\baske\Documents\Unity Projects\TER prototype\TER prototype\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.836 seconds
+Refreshing native plugins compatible for Editor in 4.96 ms, found 6 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.842 seconds
+Domain Reload Profiling: 1675ms
+	BeginReloadAssembly (195ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (563ms)
+		LoadAssemblies (308ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (332ms)
+			TypeCache.Refresh (327ms)
+				TypeCache.ScanAssembly (316ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (842ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (381ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (254ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Refreshing native plugins compatible for Editor in 4.47 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 3146 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 45 unused Assets / (68.9 KB). Loaded Objects now: 4052.
+Memory consumption went from 130.6 MB to 130.5 MB.
+Total: 2.949900 ms (FindLiveObjects: 0.142800 ms CreateObjectMapping: 0.061400 ms MarkObjects: 2.653600 ms  DeleteObjects: 0.091300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\baske\Documents\Unity Projects\TER prototype\TER prototype\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\baske\Documents\Unity Projects\TER prototype\TER prototype\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.809 seconds
+Refreshing native plugins compatible for Editor in 6.69 ms, found 6 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.797 seconds
+Domain Reload Profiling: 1602ms
+	BeginReloadAssembly (205ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (539ms)
+		LoadAssemblies (340ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (309ms)
+			TypeCache.Refresh (303ms)
+				TypeCache.ScanAssembly (290ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (797ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (389ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (270ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Refreshing native plugins compatible for Editor in 4.60 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
+Unloading 3147 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 45 unused Assets / (69.0 KB). Loaded Objects now: 4053.
+Memory consumption went from 130.8 MB to 130.7 MB.
+Total: 2.699100 ms (FindLiveObjects: 0.137900 ms CreateObjectMapping: 0.058500 ms MarkObjects: 2.418600 ms  DeleteObjects: 0.083000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 590.048281 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7239a107351e1e3e35d6cf0d702fddbf') in 0.248237 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6069
+========================================================================
+Received Import Request.
+  Time since last request: 47.704244 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68195d7f3062aab23b47603db293ef57') in 0.019100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 7.401016 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14198a7657cdf122fd8e32c2947de3d7') in 0.017750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 12.101023 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffc87d9ba900c725f4a8bd8d42c7796') in 0.007482 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 1.600854 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5705751119275113f6a7a3f0d48517f') in 0.007717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 6.042822 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511e169b36cccfb76c44920ccf58055c') in 0.008918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 34.287364 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea558b791403b17df2c9a99d5d1c333') in 0.007250 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 6.022258 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab857177860bf88c3105af965573d5ad') in 0.007757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 2.972698 seconds.
+  path: Assets/Resources/Gramps_prefab/Gramps_torso.prefab
+  artifactKey: Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Gramps_prefab/Gramps_torso.prefab using Guid(01a48257830f1d049a83a5b009d893b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49466ee951e3c8b03155260b8f82b0bd') in 0.009664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 71
+========================================================================
+Received Import Request.
+  Time since last request: 60.325655 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31be23454ab4521cd34bf22b996aaf4f') in 0.165554 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6219
+========================================================================
+Received Import Request.
+  Time since last request: 399.691544 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6c75d73ba55b98ad79cf1673b2dd35') in 0.172424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 17.749571 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bacb6eb101c0a483747554f2d007c701') in 0.160493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 226.836728 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e1ab25c24e7066d44f2201a113426f') in 0.155937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 1.011650 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a785201ca533c5fd68b97a3489062c') in 0.141905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 26.587283 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245f3229353cc45d2b681fcb3c02d7d8') in 0.163000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 2.435255 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d80b36e03c4d364c61efad3926774f4') in 0.151090 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 10.390406 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978405e5388dcf001a500d1807a03523') in 0.143684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 42.282727 seconds.
+  path: Assets/Resources/Exia_prefab/joint_Al.prefab
+  artifactKey: Guid(c6d115b03fb73814cb55f085b1caa280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/joint_Al.prefab using Guid(c6d115b03fb73814cb55f085b1caa280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1490bef0f496706441c4c3c653f5855e') in 0.085224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3239
+========================================================================
+Received Import Request.
+  Time since last request: 0.042233 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbbdd5623a8f33d42ce5c9df22eda0b1') in 0.147054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6093
+========================================================================
+Received Import Request.
+  Time since last request: 9.618256 seconds.
+  path: Assets/Resources/Exia_prefab/Joint_AR.prefab
+  artifactKey: Guid(c2296f5f25bfc5d4389524c5b955d0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Joint_AR.prefab using Guid(c2296f5f25bfc5d4389524c5b955d0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2e25a6be8f30b37f7559c3319b8899') in 0.080885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3239
+========================================================================
+Received Import Request.
+  Time since last request: 0.021299 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de978aad93ea714c095cd0ff6e99233a') in 0.155853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 22.857551 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873dd05dd6d81cef8ef6b59008837c55') in 0.151861 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6243
+========================================================================
+Received Import Request.
+  Time since last request: 12.601191 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ea3409652ab61141cf516770ff73b0') in 0.193664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6289
+========================================================================
+Received Import Request.
+  Time since last request: 7.313465 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f012d9c1d3735bc5759b7b17b843aa8') in 0.150150 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6289
+========================================================================
+Received Import Request.
+  Time since last request: 75.562552 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15121fed451094db2130ea65bed3c1a') in 0.167281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6050
+========================================================================
+Received Import Request.
+  Time since last request: 1.426006 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693c3b3774151572ac9f31b5464f27b6') in 0.084583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 1.770791 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039bb3399c1ade2f5451c50d0a0bd37e') in 0.083300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 46.568942 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87c9cb60e99c017285df73f9b242a56') in 0.080294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 0.301914 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20106d4dc6896f942c0d255b7caa8e7') in 0.076405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 1.720038 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acb06a4a9495eb2f1ee228676c9eddd') in 0.100557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 8.365779 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1609d9bbdc81e8133b16a2fd8f9e253') in 0.080822 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 10.575941 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aac125442d45279a72cea0629cfe63b') in 0.080509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 1.316430 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c85fc3cc3a062ba6ae491442a69ede') in 0.089215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 4.149063 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0380fb827305b0596c438e0d48904a5') in 0.082485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 2.131197 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc1202e2a90e52a4c02c68f7cd0bbff') in 0.084224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 12.381003 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f747f2678b71ec4281911ff4a87346c1') in 0.085171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 2.934499 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a20d36a8024de210cca4a9ed5d2b47') in 0.092989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 24.486520 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5df85e8cace616002670f9e3e45ce9') in 0.089744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 5.963681 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3eace6d0971f7754d5771622597030') in 0.080735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 5.158036 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e5cd2df5b60410875b7d195236a97f') in 0.086612 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 22.075917 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AL_joint.prefab
+  artifactKey: Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AL_joint.prefab using Guid(8a8e4ec39705c764da5296d6b1872e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e83010a3e3afd8456dc372e575b5dc5') in 0.087773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 12.163607 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0f21468706c3c284d6670a084c1105') in 0.148093 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 13.795384 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aedb8c7894547e9e4620cd0f7f1474df') in 0.158769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 7.889151 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11e92fc3cc618c299e168d95c15a5c2') in 0.177461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 6.656437 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1d3ba1fd1b512027c600d999f76fe9') in 0.145235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 2.052714 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f162d86d521419a25648ea05345140a') in 0.141821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 1.456518 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d97d4803471d1c80abe873afbf5c034') in 0.152265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 1.458367 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee87d85966c0584929c9d4680971ee4d') in 0.140279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 6.303614 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b69e152bb3a89f86604b8fee6f2af3') in 0.150340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 5.678999 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708e6413a6e93aa4790f2f4b5c35aca2') in 0.155752 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6100
+========================================================================
+Received Import Request.
+  Time since last request: 7.491020 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7934fbcc0d7696403c0252d9ef67aa18') in 0.142802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 4.876745 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765fc273843859328266413a488344fe') in 0.089529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 1.520825 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f01b969cfebc68f6219f719835d3a62') in 0.079221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 17.463687 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce59965618a6f18e78ec2418be1bd19b') in 0.087491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 6.556033 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204f4f5efb8b8e8c760c1dd529b709df') in 0.091172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 2.120387 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '071c2a8e8a116fa8679ce499d271544f') in 0.087119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 4.335013 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63cf1aef5656ed819636a0d0dea29855') in 0.085934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 10.572004 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff11801756ddda0a1224ff87bbea964') in 0.086952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 14.202968 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_AR_joint.prefab
+  artifactKey: Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_AR_joint.prefab using Guid(73923ba2846592142850ee576e2c87c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207b8cbd6b475504ee54d6c13915974e') in 0.083407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3241
+========================================================================
+Received Import Request.
+  Time since last request: 19.111823 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5403a8606e9526b4a96e3ca6110b50') in 0.156581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6250
+========================================================================
+Received Import Request.
+  Time since last request: 2.220948 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd955a7656a6764847c04b61ac7d8ea7') in 0.155678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 2.899472 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3ff506827984f297c72218dfc57774') in 0.142533 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 9.129911 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1d07e77dba681b54c219c4f6244480') in 0.161056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 1.838755 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f6d22b4e82a6e6513d24a06f33231b') in 0.154633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 1.642326 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8edb1df101e80d8bbf58b795b3096aa') in 0.148717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 6.885726 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2448ac48d79f273939ac03d59ded9591') in 0.140735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 1.272274 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009a82a6f09307d8ffa86085c40dc9db') in 0.142063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 1.657887 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd5fe60396e852daf591efc781949d6') in 0.151835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 2.048505 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5fff556a903baceb41f454a6809c38') in 0.174917 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 5.444593 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467e24b10cafab5b14b866a43708f458') in 0.157382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 6.085700 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea08703f134acf62c29a30c6e5e077c') in 0.156742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 70.225519 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcf314a0fc1d2d99b3727fbc6ec268b') in 0.161177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6293
+========================================================================
+Received Import Request.
+  Time since last request: 5.037623 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5723d2361e8740896120c05258483cab') in 0.161631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6293
+========================================================================
+Received Import Request.
+  Time since last request: 3.460407 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92297ae6e635376bbb6518080aa607f6') in 0.149801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6293
+========================================================================
+Received Import Request.
+  Time since last request: 1.251328 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4b35d39e58a00ef46f1fd36e814ffa') in 0.148692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6293
+========================================================================
+Received Import Request.
+  Time since last request: 35.303610 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc1efcfc9b13ae037e9e2a7a7d84efb') in 0.147318 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 7.545171 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abce0ebe840866fe888a02ded4e5ed27') in 0.144544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 10.740092 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a185d00564cc72c4a741c9c8801eb40') in 0.160143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 2.430430 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba2b834be1a5695ed2687450ba3ca7f') in 0.145859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.878125 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb765d4f10b859cd6dea46778571d92') in 0.150710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.845488 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254392f32a053107dd213649acd28062') in 0.155257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 3.260780 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d87d7e351fe7eba2b6982791dbfb7a') in 0.157501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.638929 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a73fcf4d60f907f551e1253848d19a4') in 0.142809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 3.464968 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a47dbc7d71cd7834c86a1e1984b59cb') in 0.149758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 7.100593 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6f6f00bd6ec6c0c476988ce043a0d8') in 0.170240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.037502 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487fffe4d0ede577f8a550506cc5fc00') in 0.148337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.234354 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a7eb00322bf87024c27bd36e1722f5') in 0.156524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 3.852778 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff9619c094e891b6c73d66eb1f50b58f') in 0.149773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 18.208344 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8e1371f3f61ae2600dbb7f9ef1be28') in 0.148163 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.861344 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911efba33b5ee5d6dd97454369e09b3c') in 0.155709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.258586 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cdb7c8610d049f6318426b89ff9a9a3') in 0.159577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 5.247366 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9db3d4a81c4ec0fbb78f3ee3a4ff228') in 0.146344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 2.249460 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e05eea36ca7cc7b694fd4d0bb274fae') in 0.146043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 4.494618 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab3c9bfdff863ac619b0b60915bca30') in 0.151809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 14.363370 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036bc17300d7f6334016821e41c30924') in 0.157881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 3.269338 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de905ab34ae76715fff3beab066b3b69') in 0.147006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 4.268299 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cc0177a5a46bc58d28b577bd844c92') in 0.160607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 9.719211 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25313f4a48eeae1518ec8c84c653db2d') in 0.148886 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 22.412111 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b285c907bf1eb1c1f50f38b3a7aa3aaf') in 0.166489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 10.919087 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0062da4e53969fa94fde75b444a37c7') in 0.157994 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 6.694147 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ec466eb9a621a021da900a6c0e4570') in 0.171693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 5.870407 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6813691e1304f8b9460b15bf659775e1') in 0.149096 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 2.250761 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb6683b62464758e844317c4e0e2216') in 0.161130 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.044115 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd58d6be8a7ea133ab4166e3a5a2451ad') in 0.146145 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 12.130682 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a007b0b5dc173304dafef8e8f435d203') in 0.148987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 2.259794 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb83decd82a6931be1855cd8c8b19fa6') in 0.150275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 3.466217 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0046d0802f39a365ff5a4323be2b17') in 0.145231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 17.964727 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8bfd779f092effaf50352231bea871') in 0.148710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 7.930992 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbd3df2fe7c16d5bb00cf2fa827ee7e') in 0.146168 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 7.057744 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d789a931bfb984f04ea6860530dfb04') in 0.175528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6293
+========================================================================
+Received Import Request.
+  Time since last request: 2.149862 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e328dc2e39e911a017dfd96c8ffa2f4c') in 0.146124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 6.709631 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296ab147faa877f9220733400f9d1ec0') in 0.150629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 2.651623 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363100bec9bfbaaa35d9ffb876fc52e3') in 0.152120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.885160 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f61fe28931f61f6365a1c72bdfc92a') in 0.168336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.613363 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50e6e420df993d13140be6647592601') in 0.157055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 2.450992 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'befbe808b2080ef084fc75f37600df9c') in 0.149368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 15.966350 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bca5c6c696d9d8414fff115d70b6e95') in 0.153598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 6.681068 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012ebea8b03a6e71616043864d11295b') in 0.157862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 5.473340 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ec9e13c60e2a8d91ece7195d2c5810') in 0.163494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 15.533401 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc807555b9c2e181eacc0e4f016c7434') in 0.147030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 9.293676 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8515352ba9bfbe3f488d3856d2c764b1') in 0.159261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 12.923687 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e314fe8a2e1407bad80fd1321d62ce4a') in 0.151936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 13.129839 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7719ec02f3065d30643c7590936508b') in 0.148288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 4.497619 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f372ad73163e1a07b9864eff7e3746f4') in 0.155658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 1.017942 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d903bb3d6316ae7cd29585c1a7ab41c') in 0.152255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 5.460452 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d021c9b1fa6ee8568a78e26a4bec33e') in 0.149128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 11.729191 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8198466cc00e68b0e0d4c39e9a3f2c') in 0.152593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 4.043747 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_torso.prefab
+  artifactKey: Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_torso.prefab using Guid(dec3bd54f4dcc8b4ba6d83579fb8f0e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1379e32291142f62e2b2544bbf18fafd') in 0.152686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6343
+========================================================================
+Received Import Request.
+  Time since last request: 45.450898 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606a7320287d967078d5d738d3b9d5c5') in 0.155057 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 7.081455 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a649fd0e03c8d4c55b234882988695') in 0.148939 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 45.684684 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8ba2c6d82cbec9b2a4140710438c606') in 0.152853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 1.230773 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bfe6870f7c71e444d3d03bff84b487') in 0.141170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 13.953973 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5fda09c83297f774b896f1efc37cce') in 0.142406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 7.511023 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76728cb091179d5df2c32ec7c7a69c4') in 0.169726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 4.438678 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599be9615827159f07500c538a86ff37') in 0.151877 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 29.319012 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cfa8ffbef40470d9690c20c5ad77ed') in 0.145784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 2.042607 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c782b444f4312762da91eb7ad554416c') in 0.145564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 5.291756 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78117dd21fdda5eb5014f552cd5175bf') in 0.141331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 4.080711 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de63063bf5bb189d537561a48e1b5a7f') in 0.148749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 8.299170 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f559f9d9b805f568ad08b51468d94845') in 0.144822 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 3.664901 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64347545f1f0b91e75238d4c6ef3b938') in 0.140928 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 4.102840 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef1acc23248ddbb2d3d8fc994fdedde') in 0.158874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 5.895326 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56dc2154b38d36ea46cecb709407adfa') in 0.148353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 5.274388 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34220e2326085d15c198f0a5ccb52972') in 0.155452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 15.150030 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6727fd7e3fa53788c569aa1615a4f6d5') in 0.140862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 27.252228 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_left_arm.prefab
+  artifactKey: Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_left_arm.prefab using Guid(77d58ecc592a65843a81152ac6e1f0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cc1a757bba63461c5aa1b47db1666d') in 0.146708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6097
+========================================================================
+Received Import Request.
+  Time since last request: 29.738662 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1a1df7530b95dcd5b07b67e3d8956d') in 0.159381 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 2.229009 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86a2a976caf7369e08740e3bc5942b0') in 0.167174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 1.623186 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bba6e006493aaba8459ab2ffb50033f') in 0.141976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 6.286416 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014c539259ada2318299a45f949983d1') in 0.145286 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 42.025176 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75d22a792d9d6b3641129fdea1ef3b4') in 0.148108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 3.849481 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da42fd6b6f45377215cdcbcf46433cc1') in 0.144677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 2.881443 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f210b52b0fd131a83f66d7623e4c4bc') in 0.147561 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247
+========================================================================
+Received Import Request.
+  Time since last request: 9.105438 seconds.
+  path: Assets/Resources/Exia_prefab/Exia_right_arm.prefab
+  artifactKey: Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Exia_prefab/Exia_right_arm.prefab using Guid(20e5f386b439b5d4fa0811633629bebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9defd1e20606cc75b4cb971e5ed385aa') in 0.147337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6247

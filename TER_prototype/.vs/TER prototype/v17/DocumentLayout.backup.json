@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCD964-6A1A-BE88-C0C6-F348320C00CF}|Assembly-CSharp.csproj|c:\\users\\baske\\documents\\unity projects\\ter prototype\\ter prototype\\assets\\scripts\\mainobjectbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCD964-6A1A-BE88-C0C6-F348320C00CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainobjectbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCD964-6A1A-BE88-C0C6-F348320C00CF}|Assembly-CSharp.csproj|C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\assets\\scripts\\menu behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCD964-6A1A-BE88-C0C6-F348320C00CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCD964-6A1A-BE88-C0C6-F348320C00CF}|Assembly-CSharp.csproj|C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCD964-6A1A-BE88-C0C6-F348320C00CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\Assets\\Scripts\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Billboard.cs",
+              "ToolTip": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\Assets\\Scripts\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Billboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:02:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu Behaviour.cs",
+              "DocumentMoniker": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\Assets\\Scripts\\Menu Behaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu Behaviour.cs",
+              "ToolTip": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\Assets\\Scripts\\Menu Behaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu Behaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T09:39:53.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainObjectBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\Assets\\Scripts\\MainObjectBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainObjectBehaviour.cs",
+              "ToolTip": "C:\\Users\\baske\\Documents\\Unity Projects\\TER prototype\\TER prototype\\Assets\\Scripts\\MainObjectBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainObjectBehaviour.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAMwI0BAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:09:01.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
