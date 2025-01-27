@@ -257,7 +257,7 @@ GameObject:
   - component: {fileID: 8797966314982176799}
   m_Layer: 0
   m_Name: Cube.108
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -340,7 +340,7 @@ GameObject:
   - component: {fileID: 8325722538427778901}
   m_Layer: 0
   m_Name: Cube.109
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -425,7 +425,7 @@ GameObject:
   - component: {fileID: 6425178719447345345}
   m_Layer: 0
   m_Name: Gramps_torso
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

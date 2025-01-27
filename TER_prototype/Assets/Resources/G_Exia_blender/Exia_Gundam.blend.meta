@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: blue
-    second: {fileID: 7938524346328340992, guid: ec201556491c08448a447a154d92768f, type: 3}
+    second: {fileID: -5424604276591182963, guid: 0ff885b377c8c4e4a89d43c71836b258, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

@@ -708,7 +708,7 @@ GameObject:
   - component: {fileID: 3387400269582534835}
   m_Layer: 0
   m_Name: Body
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1451,7 +1451,7 @@ GameObject:
   - component: {fileID: 1651365248944285631}
   m_Layer: 0
   m_Name: pSphere11
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3801,7 +3801,7 @@ GameObject:
   - component: {fileID: 2856032238081215104}
   m_Layer: 0
   m_Name: Exia_torso
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5339,7 +5339,7 @@ GameObject:
   - component: {fileID: 7127611911025743088}
   m_Layer: 0
   m_Name: pCube191
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6336,7 +6336,7 @@ GameObject:
   - component: {fileID: 7670059035167525361}
   m_Layer: 0
   m_Name: pCube1
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6417,7 +6417,7 @@ GameObject:
   - component: {fileID: 5441086627534486927}
   m_Layer: 0
   m_Name: Body_ex (1)
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6785,7 +6785,7 @@ GameObject:
   - component: {fileID: 2918976920530583013}
   m_Layer: 0
   m_Name: pSphere5
-  m_TagString: Untagged
+  m_TagString: Has_Color
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
